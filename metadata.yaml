@@ -1,5 +1,8 @@
 _repo: Ad-oltranza_72596
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72596-h/images/cover.jpg
 creator:
   author:
     agent_name: Calandra, Edoardo
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55898
     wikipedia: https://it.wikipedia.org/wiki/Edoardo_Calandra
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72596#Ad-oltranza
 gutenberg_issued: '2024-01-02'
 gutenberg_type: Text
 identifiers:
